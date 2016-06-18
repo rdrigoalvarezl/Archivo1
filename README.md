@@ -1,3 +1,3 @@
 #Esto es mi primer repositorio
 
-Hola GIT
+Este es el cambio de mi README
